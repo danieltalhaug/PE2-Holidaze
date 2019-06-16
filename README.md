@@ -19,7 +19,7 @@ To be able to see the project type:
 ```
 npm run serve
 ```
-in your console. Open a browser and open `localhost:8080/` and voila.
+in your console. Open a browser and open `localhost:8080/` and voila. If you want to log in to the admin panel the username and password is `admin`
 
 ### Compiles and minifies for production
 ```
